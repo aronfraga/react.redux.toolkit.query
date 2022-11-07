@@ -1,6 +1,6 @@
 # Redux-Toolkit-Query
 
-I created this app just for learn about redux toolkit.
+I created this app just for learn about redux toolkit query.
 
 ## Installation
 
