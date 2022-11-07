@@ -1,6 +1,8 @@
 # Redux-Toolkit-Query
 
-![alt text](./src/assets/redux_readme.jpg)
+<p align="center">
+  <img src="./src/assets/redux_readme.jpg">
+</p>
 
 I created this app just for learn about redux toolkit query, and
 was created just following the official documentation https://redux-toolkit.js.org/
