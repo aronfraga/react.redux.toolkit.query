@@ -1,6 +1,9 @@
 # Redux-Toolkit-Query
 
-I created this app just for learn about redux toolkit query.
+![alt text](./src/assets/redux_readme.jpg)
+
+I created this app just for learn about redux toolkit query, and
+was created just following the official documentation https://redux-toolkit.js.org/
 
 ## Installation
 
@@ -12,8 +15,8 @@ npm start
 
 ## Contributing
 
-Just me Aaron Fraga 
+Just me Aaron Fraga :bowtie:
 
 ## License
 
-It's free
+It's free :smiley: :smiley:
