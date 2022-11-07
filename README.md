@@ -5,6 +5,8 @@
 I created this app just for learn about redux toolkit query, and
 was created just following the official documentation https://redux-toolkit.js.org/
 
+Used api: https://breakingbadapi.com/ :key: :key: :key:
+
 ## Installation
 
 npm install 
